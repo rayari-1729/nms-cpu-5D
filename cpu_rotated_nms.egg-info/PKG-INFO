@@ -1,0 +1,20 @@
+Metadata-Version: 2.2
+Name: cpu-rotated-nms
+Version: 0.1.0
+Summary: A CPU-based 3D NMS implementation with rotation (5D input)
+Home-page: https://github.com/rayari-1729/nms-cpu-5D.git
+Author: Aritra Roy
+Author-email: 
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: torch>=1.13.0
+Dynamic: author
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

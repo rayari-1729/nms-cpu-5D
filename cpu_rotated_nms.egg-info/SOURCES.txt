@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+cpu_rotated_nms.egg-info/PKG-INFO
+cpu_rotated_nms.egg-info/SOURCES.txt
+cpu_rotated_nms.egg-info/dependency_links.txt
+cpu_rotated_nms.egg-info/requires.txt
+cpu_rotated_nms.egg-info/top_level.txt
+nms_cpu_5d/__init__.py
+nms_cpu_5d/nms.py
